@@ -1050,11 +1050,11 @@ form {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: var(--bg-black-50);
+  background-color: #d43f3f;
   border-radius: 30px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #555;
+  background: #d43f3f;
 }
 /** scroll-bar end */
